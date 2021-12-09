@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/haijian/Downloads/generator-test/ui",
+  "generatedFolder": "/Users/haijian/Downloads/generator-test/ui/target/frontend",
+  "frontendFolder": "/Users/haijian/Downloads/generator-test/ui/frontend",
+  "connect.javaSourceFolder": "/Users/haijian/Downloads/generator-test/ui/src/main/java",
+  "javaResourceFolder": "/Users/haijian/Downloads/generator-test/ui/src/main/resources",
+  "connect.applicationProperties": "/Users/haijian/Downloads/generator-test/ui/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/haijian/Downloads/generator-test/ui/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/haijian/Downloads/generator-test/ui/frontend/generated",
+  "pnpm.enable": true,
+  "require.home.node": false,
+  "build.folder": "target"
+}
